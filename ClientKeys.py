@@ -1,0 +1,5 @@
+#Twitter Keys
+consumer_token="LHtz5ktPeaxJM2X9CVLwyqAt1"
+consumer_secret="94hXBdcvEdMkusnHDR7dA07Ee5t2uV4u54iUW8uuYphXCwrfaS"
+key="1108699566558400517-E1wmXSfyWkoxEF2qwGR62JJTvpjmCl"
+secret="eatIktBqCXdmJzDwEdJ338FKruMBLoRSWDDXHUWsNSgKp"
